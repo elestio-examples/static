@@ -13,7 +13,7 @@ function getLatency() {
   }).catch(function(error) {
       //console.log(error);
       //clearInterval(timerLatency)
-      document.getElementsByClassName("app-title")[0].innerHTML = "Backend is not reacheable, are you still connected to internet?";
+      document.getElementById("latency").innerHTML = "? ms";
   });
 
 }
