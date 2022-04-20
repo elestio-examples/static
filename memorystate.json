@@ -1,0 +1,22 @@
+{
+    "SETTINGS": {},
+    "CLUSTER": {},
+    "GLOBAL": {
+        "AdminConfig": {
+            "watch": false,
+            "debug": false,
+            "nbThreads": 32
+        },
+        "*": {
+            "env": "PROD",
+            "version": "1.0.0",
+            "title": "Default Static Files",
+            "description": "This is a sample app that catch all domains not configured and serve static files",
+            "domains": [
+                "*"
+            ],
+            "publicFolder": "./",
+            "root": "./"
+        }
+    }
+}
