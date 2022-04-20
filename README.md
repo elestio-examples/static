@@ -1,20 +1,17 @@
 # Static example demo CI/CD pipeline
 
-<p align="center">
+
 <a href="https://elest.io/">
     <img src="images\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" />
 </a>
-</p>
+
 
 Example application and CI/CD pipeline showing how to deploy a static website to elestio.
 
 ## CI/CD on Elestio
 
-Fork this repository and use it to [create a
-project](https://github.com/amitshuklabag/static-example).
+Fork this repository to create your own copy that you can modify and use in a CI/CD pipeline
 
-Populate each secret as shown in [elestio.yml](elestio.yml)
-(JSON format also supported)
 
 # Steps to create CI/CD pipeline on elestio
 
