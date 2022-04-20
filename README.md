@@ -5,8 +5,9 @@
     <img src="images\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" />
 </a>
 
-
 Example application and CI/CD pipeline showing how to deploy a static website to elestio.
+
+<img src="images\screenshot-1.jpg" alt="screenshot of the example app" width="100%" />
 
 ## CI/CD on Elestio
 
