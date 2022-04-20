@@ -90,13 +90,14 @@ h4{
 }
 
 .subVal{
-    float: right;
-    margin-right: 30px;
-    background: white;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-radius: 8px;
-    font-size: 20px;
+  float: right;
+  margin-right: 15px;
+  background: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-top: 4px;
 }
 
 
