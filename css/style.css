@@ -43,7 +43,8 @@ h4{
   color: black;
   font-size: 20px;
   margin: 0;
-  margin-top: -40px;
+  margin-top: -10px;
+  line-height: 20px;
 }
 
 .app-deploy {
@@ -77,7 +78,7 @@ h4{
 .app-info-block {
   width: 420px;
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 90%;
   background: #efefef;
   border-radius: 8px;
   padding-top: 10px;
