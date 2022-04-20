@@ -1,9 +1,7 @@
 # Static example demo CI/CD pipeline
 
 
-<a href="https://elest.io/">
-    <img src="images\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" />
-</a>
+<a href="https://elest.io/"><img src="images\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" /></a>
 
 Example application and CI/CD pipeline showing how to deploy a static website to elestio.
 
