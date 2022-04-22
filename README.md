@@ -1,7 +1,7 @@
 # Static example demo CI/CD pipeline
 
 
-<a href="https://elest.io/"><img src="images\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" /></a>
+<a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/static"><img src="images\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" /></a>
 
 Example application and CI/CD pipeline showing how to deploy a static website to elestio.
 
@@ -16,7 +16,7 @@ Fork this repository to create your own copy that you can modify and use in a CI
 
 ### Step 1: Select CI/CD from left sidebar in app.
 
-Click [here](https://elest.io/) to directly go to the CI/CD
+Click [here](https://dash.elest.io/deploy?source=cicd) to directly go to the CI/CD
 
 ### Step 2: Select Deployment method.
 
